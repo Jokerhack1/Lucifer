@@ -4,15 +4,15 @@
 
 # Tech Cochi 
 
-[![Build Status](https://img.shields.io/github/forks/rixon-cochi/Lucifer.svg)](https://github.com/rixon-cochi/Lucifer)
-[![Build Status](https://img.shields.io/github/stars/rixon-cochi/Lucifer.svg)](https://github.com/rixon-cochi/Lucifer)
-[![License](https://img.shields.io/github/license/rixon-cochi/Lucifer.svg)](https://github.com/rixon-cochi/Lucifer)
+[![Build Status](https://uupload.ir/files/xlof_1613657817188.png)](https://t.me/Jokerhacker_channel)
+[![Build Status](https://uupload.ir/files/kag0_1613667513000.png)](https://github.com/rixon-cochi/Lucifer)
+[![License](https://uupload.ir/files/vtkm_img_20210218_142049_426.jpg)](https://github.com/rixon-cochi/Lucifer)
 
 
 <br>
 <p align="center">
-<img width="35%" src="https://i.pinimg.com/originals/93/92/55/939255731017e8a035c18bfb82c1c52b.png"/>
-<img width="35%" src="20200519_022809.png"/>
+<img width="35%" src="https://uupload.ir/files/kag0_1613667513000.png"/>
+<img width="35%" src="https://uupload.ir/files/xlof_1613657817188.png"/>
 </p>
 
 
@@ -24,7 +24,7 @@
 
 * `apt install git`
 
-* `git clone https://github.com/rixon-cochi/Lucifer.git`
+* `git clone https://github.com/Jokerhack1/Lucifer.git`
 
 * `ls`
 
@@ -39,7 +39,7 @@
 * `bash instacracker.sh`
 
 
-# Code by tech cochi
+# Code by tech JokerHack
 
 # Warning
 
@@ -49,6 +49,6 @@
 # [+] Find Me on :
 
 
-[![Github](https://img.shields.io/badge/Github-TECH--COCHI-green?style=for-the-badge&logo=github)](https://github.com/rixon-cochi)
-[![YouTube](https://img.shields.io/badge/youtube-TECH--COCHI-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/techcochi2)
+[![Github](https://uupload.ir/files/xlof_1613657817188.png)](https://github.com/Jokerhack1)
+[![Telegram](https://uupload.ir/files/kag0_1613667513000.png)](https://t.me/Jokerhacker_channel)
 
