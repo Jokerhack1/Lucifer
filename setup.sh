@@ -15,11 +15,11 @@ figlet -f big FINISHED !!! | lolcat
 echo ""
 echo ""
 echo " SUBSCRIBE MY CHANNEL 🔔 " | lolcat
-xdg-open https://www.youtube.com/channel/UCiE0p7rXWBEncUVsLo1C5Xg
+xdg-open https://t.me/Jokerhacker_channel
 echo ""
 sleep 10 
 echo ""
-echo " code recorded by tech-cochi "
+echo " code recorded by Joker Hack "
 sleep 5
 sleep 10
 echo " create account on ecoin "
